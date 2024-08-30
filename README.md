@@ -20,6 +20,8 @@
 ## Live Demo
 To take a closer look at the website, you can visit it directly through this link: [Vist the Live Demo](https://minaanis7.github.io/leon-site-template/)
 
-## Languages Used
+## Languages and Libraries Used
 - HTML
 - CSS
+- Font Awesome Free v6.6.0
+- Normailze.css v8.0.1
